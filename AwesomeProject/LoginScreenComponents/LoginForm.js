@@ -8,10 +8,12 @@ import {
 const styles = StyleSheet.create({
     container: {
         flex: 16,
+        backgroundColor: "#000",
         alignItems: 'center',
         justifyContent: 'center',
         alignSelf: 'stretch',
-        padding: 10
+        padding: 10,
+        paddingTop: 20
       },
     text: {
         color: '#fff',
