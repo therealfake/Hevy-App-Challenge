@@ -13,8 +13,6 @@ const styles = StyleSheet.create({
         paddingTop: 30,
         gap:120
     },
-    backButton: {
-    },
     headerText: {
         color: "#fff",
         flex: 1,
